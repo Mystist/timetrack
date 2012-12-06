@@ -6,6 +6,6 @@ This is a beta version, you can only have a try with it.
 
 Contact me for more information:  
 
-[https://github.com/Mystist/timetrack][0]  
+[https://mystist.github.com/][0]  
 
-[0]: https://github.com/Mystist/timetrack
+[0]: https://mystist.github.com/
