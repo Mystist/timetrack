@@ -1,4 +1,4 @@
-# Welcome to use TimeTrack!  
+## Welcome to use TimeTrack!  
 
 TimeTrack is sth like TimeLine, it can record your life things or sth like that.  
 
